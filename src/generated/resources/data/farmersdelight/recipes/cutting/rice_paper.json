@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "hafprcerecipeaddon:rice_paper"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "hafprcerecipeaddon:rice_noodles"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}
