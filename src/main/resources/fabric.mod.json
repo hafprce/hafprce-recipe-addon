@@ -3,13 +3,13 @@
 	"id": "hafprce-recipe-addon",
 	"version": "${version}",
 	"name": "hafprce-recipe-addon",
-	"description": "Adding new recipes to Farmer's Delight Refricated",
+	"description": "Adding new recipes to Farmer's Delight Refabricated",
 	"authors": [
 		"Me!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/hafprce/hafprce-recipe-addon"
 	},
 	"license": "MIT",
 	"icon": "assets/hafprce-recipe-addon/icon.png",
@@ -32,8 +32,9 @@
 		"fabricloader": ">=0.17.2",
 		"minecraft": "~1.21.1",
 		"java": ">=21",
-		"fabric-api": "*"
-	},
+		"fabric-api": "*",
+        "farmersdelight": "~1.21.1-3.1.2"
+    },
 	"suggests": {
 		"another-mod": "*"
 	}
