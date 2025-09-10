@@ -7,11 +7,13 @@
   ],
   "result": [
     {
-      "count": 1,
-      "item": "hafprcerecipeaddon:rice_noodles"
+      "item": {
+        "count": 1,
+        "id": "hafprcerecipeaddon:rice_noodles"
+      }
     }
   ],
   "tool": {
-    "tag": "c:tools/knives"
+    "tag": "c:tools/knife"
   }
 }

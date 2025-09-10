@@ -12,10 +12,7 @@
   ],
   "recipe_book_tab": "meals",
   "result": {
-    "item": "hafprcerecipeaddon:rice_paper",
+    "id": "hafprcerecipeaddon:rice_paper",
     "count": 1
-  },
-  "container": {
-    "item": "minecraft:bucket"
   }
 }
