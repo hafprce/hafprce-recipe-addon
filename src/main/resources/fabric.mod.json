@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "hafprce-recipe-addon",
+	"id": "hafprcerecipeaddon",
 	"version": "${version}",
-	"name": "hafprce-recipe-addon",
+	"name": "hafprcerecipeaddon",
 	"description": "Adding new recipes to Farmer's Delight Refabricated",
 	"authors": [
 		"Me!"
